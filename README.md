@@ -1,1 +1,3 @@
-# lesson_1-repo
+# Hello World! 
+	
+#	My first GitHub pages repository
